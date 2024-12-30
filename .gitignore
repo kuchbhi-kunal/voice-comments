@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.*.local
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor-related files
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Voice notes directory
+.voice-notes/
+
+
+# npm-packaging files
+*.tgz
+.npmrc
+
+# Build artifacts
+bin/voice-comment.js
+
+# Lock files (optional, depending on workflow)
+package-lock.json
+
+# Exclude other unnecessary generated files (if any)
+*.bak

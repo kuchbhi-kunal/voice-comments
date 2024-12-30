@@ -1,0 +1,25 @@
+{
+  "name": "voice-comments",
+  "version": "1.0.0",
+  "description": "Add voice notes to your code. We all know sometimes voice notes does the work rather than text ;)",
+  "main": "index.js",
+  "bin": {
+    "voice-comment": "bin/voice-comment.js"
+  },
+  "scripts": {
+    "start": "node ./bin/voice-comment.js"
+  },
+  "keywords": [
+    "voice",
+    "comments",
+    "code"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-record-lpcm16": "^1.0.1",
+    "uuid": "^8.3.2",
+    "commander": "^8.3.0",
+    "play-sound": "^1.1.3"
+  }
+}
