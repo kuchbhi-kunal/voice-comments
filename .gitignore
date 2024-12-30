@@ -20,8 +20,8 @@ Thumbs.db
 *.tmp
 *.temp
 
-# Voice notes directory
-.voice-notes/
+# Voice comments directory
+.voice-comments/
 
 
 # npm-packaging files
