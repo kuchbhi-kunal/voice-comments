@@ -1,6 +1,6 @@
 {
   "name": "voice-comments",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Add voice notes to your code. We all know sometimes voice notes does the work rather than text ;)",
   "main": "index.js",
   "bin": {
